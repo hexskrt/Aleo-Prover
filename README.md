@@ -29,8 +29,6 @@ it will take a few minutes so be patient
 
 Please remember to save the account private key and view key. The following is an example output:
 
-Attention - Remember to store this account private key and view key.
-
 ```
  Attention - Remember to store this account private key and view key.
 
