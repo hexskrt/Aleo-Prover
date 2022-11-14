@@ -25,15 +25,19 @@ choose option number 1 (default)
 
 it will take a few minutes so be patient
 
-# Create An Account
+# Save Information Account 
 
-After installation success you need to create an account first, write this command below
+Please remember to save the account private key and view key. The following is an example output:
+
+Attention - Remember to store this account private key and view key.
 
 ```
-snarkos account new
-```
+ Attention - Remember to store this account private key and view key.
 
-backed up the information your account 
+  Private Key  APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me And Use In The Next Step
+     View Key  AViewKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me
+      Address  aleo1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me
+```
 
 # Run Prover
 
